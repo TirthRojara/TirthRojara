@@ -3,11 +3,11 @@ Hiii, I'm Tirth Rojara <br><br>
 I’m Web Developer with a strong focus on backend development, while also handling frontend responsibilities. I enjoy building full-stack scalable, production-ready systems with clean architecture, secure APIs, real-time communication, efficient data handling and responsive UI.
  <br><br>
  - 💬 Ask me about Node.js, Express, REST API design, authentication & authorization (JWT, RBAC), real-time apps with Socket.IO, and building clean, maintainable backend code.
- - <br> Contact: **work.tirthrojara@gmail.com** 
+  <br> Contact: **work.tirthrojara@gmail.com** 
 
 
 ## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tirth-rojara](https://www.linkedin.com/in/tirth-rojara-26b73b317/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.tirthrojara@gmail.com) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/tirth-rojara-26b73b317/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.tirthrojara@gmail.com) 
 
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
