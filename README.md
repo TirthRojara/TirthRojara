@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently working on a production-ready full-stack Job Portal with real-time chat, subscription plans, and scalable architecture. Backend uses Node.js, Express, PostgreSQL, Redis, Socket.IO, and Razorpay; frontend built with Next.js, React, TypeScript, Tailwind CSS, and shadcn/ui.<br>I’m looking to collaborate on full-stack **MERN / Next.js** projects, especially anything involving real-time features, dashboards, or scalable REST APIs. <br>- 💬 Ask me about Node.js, Express, REST API design, authentication & authorization (JWT, RBAC), real-time apps with Socket.IO, and building clean, maintainable backend code.<br> How to reach me: **work.tirthrojara@gmail.com** · *(add your LinkedIn/GitHub profile links here)*
+Highly motivated MERN Stack Developer skilled in building scalable full-stack web applications using MongoDB,
+Express.js, React, and Node.js. Experienced in developing REST APIs and creating responsive UI. Quick
+learner with strong problem-solving abilities and a focus on writing clean, maintainable code to deliver effective
+web solutions.
+ <br>- 💬 Ask me about Node.js, Express, REST API design, authentication & authorization (JWT, RBAC), real-time apps with Socket.IO, and building clean, maintainable backend code.<br> How to reach me: **work.tirthrojara@gmail.com** · *(add your LinkedIn/GitHub profile links here)*
 
 
 ## 🌐 Socials:
