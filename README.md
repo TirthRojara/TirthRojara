@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hiii, I'm Tirth Rojara <br><br>
 Highly motivated MERN Stack Developer skilled in building scalable full-stack web applications using MongoDB,
 Express.js, React, and Node.js. Experienced in developing REST APIs and creating responsive UI. Quick
 learner with strong problem-solving abilities and a focus on writing clean, maintainable code to deliver effective
