@@ -4,7 +4,7 @@ I’m a full-stack web developer who enjoys building modern, scalable applicatio
 I love working with TypeScript and JavaScript to write reliable, maintainable code, and I build responsive interfaces using Tailwind CSS. For data and state management, I use PostgreSQL, MongoDB, Prisma, Redux, and React Query, ensuring applications stay fast and consistent even as they scale.
  <br><br>
  <!--
-💬 Ask me about Node.js, Express, REST API design, authentication & authorization (JWT, RBAC), real-time apps with Socket.IO, and building clean, maintainable backend code.
+💬 Ask me about Node.js, Express, REST API design, authentication & authorization (JWT, RBAC),  real-time apps with Socket.IO, and building clean, maintainable backend code.
   <br><br> -->
 Contact: **work.tirthrojara@gmail.com** 
 
