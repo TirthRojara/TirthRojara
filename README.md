@@ -2,7 +2,7 @@
 Hiii, I'm Tirth Rojara <br><br>
 A Full-Stack Developer experienced in building scalable web applications using Next.js, React.js, Node.js, and Express.js. I work with both PostgreSQL and MongoDB, and use Prisma for efficient data management.
 <br><br>
-I have hands-on experience in designing REST APIs, implementing real-time features with Socket.IO, and integrating payment systems like Razorpay. I focus on writing clean, maintainable code and building performance-driven applications.
+I have hands-on experience in designing REST APIs, implementing real-time features with Socket.IO, and integrating payment systems like Razorpay. I also work with Docker, CI/CD pipelines, and AWS EC2 for deploying and managing production-ready applications.
  <br><br>
  <!--
 💬 Ask me about Node.js, Express, REST API design, authentication & authorization (JWT, RBAC), real-time apps with Socket.IO, and building clean, maintainable backend code.
