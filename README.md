@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hiii, I'm Tirth Rojara <br><br>
-I’m a full-stack web developer who enjoys building modern, scalable applications with a strong focus on clean architecture and performance. I work mainly with React and Next.js on the frontend, and Node.js with Express on the backend, creating seamless experiences from UI to API. <br><br>
-I love working with TypeScript and JavaScript to write reliable, maintainable code, and I build responsive interfaces using Tailwind CSS. For data and state management, I use PostgreSQL, MongoDB, Prisma, Redux, and React Query, ensuring applications stay fast and consistent even as they scale.
+A Full-Stack Developer experienced in building scalable web applications using Next.js, React.js, Node.js, and Express.js. I work with both PostgreSQL and MongoDB, and use Prisma for efficient data management.
+<br><br>
+I have hands-on experience in designing REST APIs, implementing real-time features with Socket.IO, and integrating payment systems like Razorpay. I focus on writing clean, maintainable code and building performance-driven applications.
  <br><br>
  <!--
 💬 Ask me about Node.js, Express, REST API design, authentication & authorization (JWT, RBAC), real-time apps with Socket.IO, and building clean, maintainable backend code.
